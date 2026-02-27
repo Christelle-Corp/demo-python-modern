@@ -6,7 +6,7 @@ requires-python = ">=3.8"
 dependencies = [
     "django==2.2.0",
     "flask==0.12.2",
-    "requests==2.6.0",
+    "requests==2.32.5",
     "pyyaml==5.1",
     "jinja2==2.10.0",
 ]
