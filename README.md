@@ -1,7 +1,5 @@
 # Demo Python Modern - GHAS Testing
 
-**⚠️ WARNING: This repository contains intentionally vulnerable dependencies for security scanning demonstration purposes.**
-
 ## Purpose
 
 This repository demonstrates GitHub Advanced Security (GHAS) Dependabot capabilities for Python projects using both modern (UV) and traditional (pip) package managers.
